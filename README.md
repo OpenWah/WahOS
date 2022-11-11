@@ -6,5 +6,7 @@ Este repositorio te ayudara a construir una imagen para instalar WahOS
 
 # Componentes:
 - Cargador de arranque: Saplig
-- Inicializador: FastWah
+- Sistema de arranque: FastWah
+- Kernel: Kortex
+- Sistema de logeo: WUctl
 - Linea de comandos: Wah CLI
